@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ansarisarim
-d
 - 💞️ I’m looking to collaborate on K8S
 - 📫 How to reach me 
 - 😄 Pronouns: ...
