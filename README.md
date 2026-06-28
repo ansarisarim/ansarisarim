@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ansarisarim
-- 💞️ I’m looking to collaborate on K8S
+- 💞️ I’m looking to collaborate on K8S and pytho developemtd
 - 📫 How to reach me 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
