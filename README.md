@@ -1,5 +1,19 @@
-- 👋 Hi, I’m @ansarisarim
-- 💞️ I’m looking to collaborate on K8S and pytho developemtd
-- 📫 How to reach me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there, I'm Sarim 👋
+
+💻 Passionate about **Python Development** and **Kubernetes (K8s)**  
+🚀 Always learning and building cool things
+
+---
+
+### 🔧 Technologies I work with
+- **Python**
+- **Kubernetes**
+- **Docker**
+- **Linux**
+
+---
+
+### 🤝 Looking to collaborate on
+- Python projects
+- Kubernetes / DevOps related work
+- Open source contributions
